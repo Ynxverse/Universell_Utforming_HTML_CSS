@@ -1,0 +1,60 @@
+.del1 {
+    background-color: #FDE7F3;
+    color: #137C0E;
+    height: 180px;
+    width: 1920px;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+
+h1 {
+    font-size: xx-large;
+    font-weight: bold;
+    position: relative;
+    left:2%;
+}
+
+univ {
+    font-size: larger ;
+    position: relative;
+    left:2%;
+}
+
+wcag {
+    font-size: larger;
+    position: relative;
+    left:2%;
+}
+
+.del2 {
+    background-color: #5C3205;
+    color: #B1D6FC;
+    height: 180px;
+    width: 1920px;
+    position: absolute;
+    top: 20%;
+    left: 0%;
+}
+
+kons {
+    font-size: larger;
+    position: relative;
+    left:2%;
+}
+
+.del3 {
+    background-color: #F0F390;
+    color: #871490;
+    height: 180px;
+    width: 1920px;
+    position: absolute;
+    top: 39.9%;
+    left: 0%;
+}
+
+prim {
+    font-size: larger;
+    position: relative;
+    left:2%;
+}
